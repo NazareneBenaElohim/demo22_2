@@ -1,2 +1,2 @@
 1
-Edited in remote: file 1
+Edited in remote: file 1 (Edited in local: file 1)
